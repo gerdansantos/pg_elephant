@@ -1,0 +1,5 @@
+# pg_elephant extension
+default_version = '1.0'
+comment = 'An elephant never forgets'
+relocatable = true
+superuser = true
